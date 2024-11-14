@@ -9,11 +9,12 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yml": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build", 
+    "build": "react-scripts build",
     "test:unit": "react-scripts test",
     "test: e2e": "node: ./scripts/e2e.test.js",
     "lint": "node ./scripts/eslint.js",
